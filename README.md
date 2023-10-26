@@ -1,4 +1,4 @@
-### EX NO : 03
+## EX NO : 03
 # <p align="center">PCA-Simple-warp-divergence---Implement-Sum-Reduction.</p>
 
 ## Aim :
@@ -18,9 +18,9 @@ Launch the reduceUnrolling16 kernel, which performs reduction using 16 data bloc
 Compare the results obtained from both kernels.
 
 ### Program :
-Developed By : **Akash A**
+Developed By : **KRISHNA PRAKAASH D M**
 </br>
-Register No. : **212221230003**
+Register No. : **212221230052**
 ```c
 %%cu
 #include <cuda_runtime.h>
